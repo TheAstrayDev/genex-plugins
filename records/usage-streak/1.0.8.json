@@ -1,0 +1,20 @@
+{
+  "id": "usage-streak",
+  "name": "Usage-Streak",
+  "publisher": "TheAstrayDev",
+  "description": "Local token activity by day, game and model, with saved Studio captures and a recorded activity tree. Requires unmerged customization API #112 plus footer/navigation hooks; incompatible with stock Genex.",
+  "category": "analytics",
+  "tier": "community",
+  "repo": "TheAstrayDev/genex-usage-streak",
+  "sha": "b9c02a63810fb78a5b18a22bbea71a0f71589449",
+  "version": "1.0.8",
+  "capabilities": [
+    "ui.customization"
+  ],
+  "artifact": {
+    "url": "https://plugins.genex.games/releases/usage-streak/1.0.8/38531046260916ed918a4d5736a156a590e402bc712a8d703405344f210b6295.json",
+    "sha256": "38531046260916ed918a4d5736a156a590e402bc712a8d703405344f210b6295"
+  },
+  "subdir": "plugin",
+  "docsUrl": "https://github.com/TheAstrayDev/genex-usage-streak"
+}
