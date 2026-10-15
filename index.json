@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T17:42:46.005Z",
+  "updatedAt": "2026-10-15T10:05:22.053Z",
   "plugins": [
     {
       "id": "genex",
@@ -60,14 +60,14 @@
       "category": "analytics",
       "tier": "community",
       "repo": "TheAstrayDev/genex-usage-streak",
-      "sha": "b9c02a63810fb78a5b18a22bbea71a0f71589449",
-      "version": "1.0.8",
+      "sha": "5655fd8e1b55492ee500e74f5bb729e07e80067a",
+      "version": "1.0.14",
       "capabilities": [
         "ui.customization"
       ],
       "artifact": {
-        "url": "https://plugins.genex.games/releases/usage-streak/1.0.8/38531046260916ed918a4d5736a156a590e402bc712a8d703405344f210b6295.json",
-        "sha256": "38531046260916ed918a4d5736a156a590e402bc712a8d703405344f210b6295"
+        "url": "https://plugins.genex.games/releases/usage-streak/1.0.14/9001d4a0e44cbdadb5ae36d9f1db2b5deb3a9d71f008c101439f7375b0d2b356.json",
+        "sha256": "9001d4a0e44cbdadb5ae36d9f1db2b5deb3a9d71f008c101439f7375b0d2b356"
       },
       "subdir": "plugin",
       "docsUrl": "https://github.com/TheAstrayDev/genex-usage-streak"
