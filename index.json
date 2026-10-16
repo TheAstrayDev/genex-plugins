@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T14:50:57.134Z",
+  "updatedAt": "2026-10-16T16:41:53.463Z",
   "plugins": [
     {
       "id": "genex",
@@ -56,12 +56,12 @@
       "id": "theastraydev-local-models",
       "name": "Local Models",
       "publisher": "TheAstrayDev",
-      "description": "Experimental Windows/NVIDIA local image, audio and 3D generation. Requires an unreleased native-job host extension; not compatible with stock Genex 0.1.7. One GPU worker at a time.",
+      "description": "Experimental local images/audio on Windows x64 Vulkan (AMD/NVIDIA) and Apple Silicon Metal. Textured Hunyuan3D remains Windows/NVIDIA only. Requires a development native-job host; not stock Genex 0.1.7.",
       "category": "assets",
       "tier": "community",
       "repo": "TheAstrayDev/genex-local-models",
-      "sha": "d1c7582f0a4648faf8d8baa8c5c06332c198021c",
-      "version": "0.1.11",
+      "sha": "e538a604d7fe9f699afa290ea00fd9a642e843b1",
+      "version": "0.1.12",
       "capabilities": [
         "native-runtime",
         "project.read",
@@ -71,8 +71,8 @@
         "observe"
       ],
       "artifact": {
-        "url": "https://plugins.genex.games/releases/theastraydev-local-models/0.1.11/b10ebb6ac75e386423b231c2c74a415316652fd7f7698491ceefddb1bcd20d92.json",
-        "sha256": "b10ebb6ac75e386423b231c2c74a415316652fd7f7698491ceefddb1bcd20d92"
+        "url": "https://plugins.genex.games/releases/theastraydev-local-models/0.1.12/8e81d5459356f3a1642cc29f46b7c65e25bda2491b2aaa8a88826649be6867ba.json",
+        "sha256": "8e81d5459356f3a1642cc29f46b7c65e25bda2491b2aaa8a88826649be6867ba"
       },
       "subdir": "package",
       "docsUrl": "https://github.com/TheAstrayDev/genex-local-models"
